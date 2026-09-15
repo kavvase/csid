@@ -1,0 +1,8 @@
+{
+  "figure1": "figures/cardinality_confounding.png",
+  "figure2": "figures/synthetic_detection_power.png",
+  "figure3": "figures/concordance_threshold_validation.png",
+  "figure4": "figures/conditional_odds_lambda_validation.png",
+  "figure5": "figures/item_universe_expansion.png",
+  "tables": "figures/tables"
+}

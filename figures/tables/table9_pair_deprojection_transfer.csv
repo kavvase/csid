@@ -1,0 +1,7 @@
+dataset,comparison,n_pairs,pearson,spearman
+Complete Journey,H1 theta on H2 vs H2 theta on H2,190,0.6879315966501046,0.6591618662712628
+Complete Journey,H1 theta on H2 vs full-data correction,190,0.9062309068682988,0.8917678139502334
+Ta-Feng,H1 theta on H2 vs H2 theta on H2,190,0.695263270903751,0.6702209275369927
+Ta-Feng,H1 theta on H2 vs full-data correction,190,0.9035647922538128,0.8934334090024363
+Instacart,H1 theta on H2 vs H2 theta on H2,190,0.8144930471384381,0.7581860410187774
+Instacart,H1 theta on H2 vs full-data correction,190,0.9445060960846002,0.9265353610903352

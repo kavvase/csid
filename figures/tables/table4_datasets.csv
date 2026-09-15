@@ -1,0 +1,4 @@
+dataset,baskets,H1,H2,categories,selected_categories,triple_min_count,mean_basket_size
+Complete Journey,72936,35087,37849,20,20 predefined product_category values,0,4.612276516397938
+Ta-Feng,90258,44564,45694,20,Top 20 two-digit PRODUCT_SUBCLASS codes,10,3.6412506370626425
+Instacart,373133,179784,193349,20,"Top 20 aisles (30,000-user subsample)",30,4.689796935677091
